@@ -1,0 +1,5 @@
+.layout {
+    display: flex;
+    width: 600px;
+    justify-content: space-around;
+}
